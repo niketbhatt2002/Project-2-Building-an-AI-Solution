@@ -1,0 +1,39 @@
+1. Task Definition:
+Objective: Develop a sentiment analysis solution to classify product reviews.
+
+Significance: Helps businesses understand customer feedback and improve products.
+
+Real-World Applications: E-commerce platforms, brand monitoring.
+
+2. Model Selection:
+Model: Azure Text Analytics (Microsoft).
+
+Justification: High accuracy, scalability, and customizability for sentiment analysis tasks.
+
+3. Management Process:
+Organization: Labeled the model as Sentiment-Analysis-Model.
+
+Version Control: Used Azure’s version control tools to track changes.
+
+Collaboration: Shared the model setup with team members using Azure’s collaboration features.
+
+4. Solution Development:
+Input Data Preparation: Preprocessed a dataset of product reviews.
+
+Model Integration: Deployed and ran the model using Azure AI Studio.
+
+Output Evaluation: Analyzed sentiment and confidence scores for each review.
+
+5. Evaluation Results:
+Accuracy: 90% of reviews were correctly classified.
+
+Confidence Scores: High confidence scores for most predictions.
+
+Challenges: Some reviews with mixed sentiments were misclassified.
+
+6. Future Improvements:
+Fine-Tuning: Fine-tune the model with domain-specific data for better accuracy.
+
+Larger Dataset: Train on a larger dataset to improve generalization.
+
+Advanced Metrics: Use F1-score and precision-recall curves for a more detailed evaluation.
